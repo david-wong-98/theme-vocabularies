@@ -1,0 +1,20 @@
+[
+  {
+    "cate_name": "节日",
+    "vocab_list": [
+     "New Year's Day","Chinese New Year/Spring Festival","Lantern Festival","Tomb-Sweeping Day","Dragon Boat Festival","Mid-Autumn Festival","Double Ninth Festival","Winter Solstice Festival","Christmas","Easter","Thanksgiving","Halloween","Valentine's Day","Mother's Day","Father's Day","April Fool's Day","International Women's Day","Labor Day/may day","Children's day","Teacher's Day","National Day","Carnival","Eid al-Fitr","Eid al-Adha"
+    ]
+  },
+  {
+    "cate_name": "传统",
+    "vocab_list": [
+    "red envelopes","spring festival couplets","lanterns","family reunion","new year’s eve dinner","fireworks","firecrackers","dragon dance","lion dance","temple fair","ancestor worship","tomb sweeping","zongzi","mooncakes","dumplings","glutinous rice balls","sachets","dragon boat","calamus","new clothes","gift exchange","home decorations","candles","greeting cards","christmas tree","christmas gifts","santa claus","easter eggs","jack-o'-lantern","trick-or-treat","thanksgiving feast","mooncake baking","christmas carols","parades","firework shows"
+    ]
+  },
+  {
+    "cate_name": "假期",
+    "vocab_list": [
+    "travel","shopping","family gathering","fireworks","temple visit","dining out","movie night","theme park","camping","barbecue (BBQ)","picnic","skiing","swimming","sunbathing","beach trip","road trip","hiking","cycling","fishing","karaoke","concert","museum visit","art exhibition","reading","board games","video games","spa","massage","yoga","meditation","festival celebration","cooking","handicrafts","baking","photography"
+    ]
+  }
+]

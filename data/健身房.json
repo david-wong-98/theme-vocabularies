@@ -1,0 +1,27 @@
+[
+  {
+    "cate_name": "健身器械",
+    "vocab_list": [
+      "treadmill","elliptical machine","stationary bike","rowing machine","stair climber","dumbbell","barbell","resistance band","pull-up bar","adjustable bench","squat rack","stability ball","foam roller","massage gun","weight plate","punching bag","jump rope"
+     
+    ]
+  },
+  {
+    "cate_name": "健身动作",
+    "vocab_list": [
+    "push-ups","sit-ups","squats","pull-ups","dumbbell bench press","deadlifts","barbell squats","bench press","lateral raises","front raises","crunches","mountain climbers","jump rope","bent-over rows","overhead press","hip thrusts","stair climbing","barbell rows","weighted squats","single-leg deadlifts","plank","squat jumps","vertical jumps","stretching","high knees","single-leg balance"
+    ]
+  },
+  {
+    "cate_name": "健身部位",
+    "vocab_list": [
+    "chest","back","shoulders","biceps","triceps","forearms","abs","core","buttock","quads","hamstrings","calves","lats","traps","delts","obliques","hip flexors"
+    ]
+  },
+  {
+    "cate_name": "健身补品",
+    "vocab_list": [
+    "protein powder","creatine","fat burner","multivitamin","omega-3","electrolytes","collagen","mass gainer","taurine","probiotics","digestive enzymes","vitamin D","magnesium","zinc","calcium","iron","vegan protein","melatonin","turmeric","ginger extract","apple cider vinegar","caffeine pill"
+    ]
+  }
+]

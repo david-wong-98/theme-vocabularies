@@ -1,0 +1,22 @@
+[
+  {
+    "cate_name": "工具器械",
+    "vocab_list": [
+"cotton swabs","band-aids","medical gauze","medical tape","alcohol swabs","digital thermometer","ear thermometer","forehead thermometer","blood pressure monitor","stethoscope","first aid kit","hot water bottle","ice pack","eyedropper","measuring cup","pill cutter","nebulizer","disposable syringe","blood glucose meter","lancet device","test strips","inhaler","nasal aspirator","baby nasal aspirator","tweezers","medical scissors","nail clippers","corn plaster","blister plaster","elastic bandage","wrist brace","knee brace","cervical collar","back brace","walking cane","crutches","wheelchair","bedpan","urinal","commode","pregnancy test","ovulation test","urine collection cup","disposable gloves","disposable face masks","n95 respirator","protective goggles","face shield","disposable gown","ear plugs","sleep mask","snoring stopper","teeth whitening tray","tongue cleaner","eye wash cup","contact lens case","lens cleaning solution","eyeglass repair kit","magnifying glass","ingrown toenail corrector",
+"bunion corrector","arch support","heating pad","massage roller","cupping set","catheter","breast pump","nursing pad","baby bottle sterilizer","pacifier","walking frame","bed rail","grab bar","pill crusher","liquid medicine dispenser"
+    ]
+  },
+  {
+    "cate_name": "常用药物",
+    "vocab_list": [
+    "cold medicine","painkiller","fever reducer / antipyretic","cough syrup","antibiotic","antacid","stomach medicine","hemostatic agent","antidiarrheal","laxative","anti-inflammatory drug","allergy medicine / antihistamine","motion sickness pill","nasal spray","eye drops","ointment","antifungal cream","antiseptic","sore throat lozenge / throat drops","bandage","plaster / band-aid","sleeping pill","vitamin supplement","dietary supplement","protein powder","whey protein","plant-based protein","collagen powder","fish oil","multivitamins","vitamin C tablets","vitamin D drops","calcium supplement","zinc lozenges","iron supplement","magnesium powder","fiber powder","melatonin tablets","probiotics","digestive enzymes","liver detox capsules","joint support formula","hair growth supplement","eye health formula"
+    ]
+  },
+  {
+    "cate_name": "服用规则",
+    "vocab_list": [
+    "dosage","oral","topical","injection","before meals","after meals","with food","on empty stomach","daily","twice daily","every X hours","at bedtime","swallow whole","chew","dissolve","shake well","dilute","contraindication","pregnancy","breastfeeding","side effect","drowsiness","dizziness","nausea","rash","alcohol","anticoagulant","monitor","storage","room temperature","refrigerate","protect from light","keep dry","expiration","discard","dispose","outdated","overdose","discontinue","prescription","OTC (Over-the-counter)","label","instruction","warning","allergic reaction","seek medical help","emergency","adverse effect","toxicity","maximum dose","minimum dose","absorption","distribution","metabolism","excretion","efficacy","therapeutic effect","tablet","capsule","syrup",
+    "solution","patch","inhaler","drop","cream","course","acute","chronic","hydration","fasting"
+    ]
+  }
+]

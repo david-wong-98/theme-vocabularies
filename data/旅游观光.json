@@ -1,0 +1,37 @@
+[
+  {
+    "cate_name": "准备",
+    "vocab_list": [
+      "passport","visa","ticket","boarding pass","itinerary","hotel booking","travel insurance","vaccination","currency","exchange rate","credit card","cash","ATM","suitcase","carry-on","packing list","adapter","charger","power bank","guidebook","map","phrasebook","SIM card","roaming","travel pillow","earplugs","eye mask","first aid kit","medicine","sunscreen","sunglasses","hat","umbrella","jacket","comfortable shoes","camera","memory card","tripod","water bottle","snacks","local cuisine","weather forecast","time zone","jet lag","emergency contact","embassy","transportation","public transport","taxi","rental car","navigation app","travel adapter","language translation app","travel wallet","copies of documents","digital backup","check-in online","baggage allowance","airport transfer","travel size",
+      "portable Wi-Fi","travel authorization","customs declaration","duty-free"
+      
+    ]
+  },
+  {
+    "cate_name": "景点",
+    "vocab_list": [
+    "attraction","scenic spot","tourist destination","landmark","historical site","museum","art gallery","palace","temple","church","cathedral","mosque","pagoda","castle","ruins","monument","statue","fountain","park","national park","botanical garden","zoo","aquarium","theme park","amusement park","beach","island","mountain","volcano","valley","canyon","waterfall","lake","river","cave","hot spring","ski resort","hiking trail","observation deck","cable car","ferris wheel","bridge","square","old town","ancient city","village","market","bazaar","shopping street","pedestrian street","night market","opera house","concert hall","stadium","university","library","tower","skyscraper","observation tower","lighthouse","harbor","pier","cruise","boat tour","vineyard","tea plantation","rice terrace","desert","glacier","coral reef","rainforest","wetland","nature reserve"
+    ]
+  },
+  {
+    "cate_name": "交通",
+    "vocab_list": [
+    "airport","train station","bus station","subway station","taxi stand","ferry terminal","ticket office","ticket machine","platform","departure","arrival","timetable","schedule","one-way ticket","round-trip ticket","first class","economy class","business class","boarding pass","security check","customs","baggage claim","check-in counter","gate","flight","train","high-speed rail","bullet train","express train","bus","coach","subway","tram","taxi","ride-hailing (Uber)","rental car","bicycle rental","ferry","cruise ship","yacht","helicopter","domestic flight","international flight","direct flight","connecting flight","layover","delay","cancellation","lost luggage","overweight baggage","hand luggage","checked baggage","luggage cart","seat number","window seat","aisle seat","middle seat","exit row","upgrade","frequent flyer",
+    "harbor","pier","cruise","boat tour","vineyard","tea plantation","rice terrace","desert","glacier","coral reef","rainforest","wetland","nature reserve"
+    ]
+  },
+  {
+    "cate_name": "住宿",
+    "vocab_list": [
+    "hotel","hostel","resort","motel","inn","apartment rental","vacation rental","villa","cabin","campsite","ryokan","capsule hotel","check-in","check-out","reception","lobby","room key/card","single room","double room","twin room","suite","dormitory","private room","shared room","adjoining rooms","ocean view room","mountain view room","city view room","balcony","room service","housekeeping","do not disturb sign","wake-up call","late check-out","early check-in","deposit","cancellation policy","no-show fee","breakfast included","buffet breakfast","continental breakfast","full English breakfast","swimming pool","gym","spa","sauna","jacuzzi","hot tub","business center","conference room","laundry service","dry cleaning","ironing service","luggage storage","safe deposit box","free Wi-Fi","air conditioning","heating","mini bar","refrigerator",
+    "kettle","hair dryer","towels","bathrobe","slippers","toiletries","shampoo","conditioner","body wash","soap","toothbrush"
+    ]
+  },
+  {
+    "cate_name": "活动",
+    "vocab_list": [
+    "romantic dinner","helicopter tour","submarine tour","ghost tour","underground tour","cave exploration","volcano hiking","glacier walk","desert safari","jungle trek","waterfall rappelling",
+    "sightseeing","guided tour","walking tour","bus tour","boat cruise","snorkeling","scuba diving","surfing","kayaking","canoeing","parasailing","paragliding","skydiving","hot air ballooning","hiking","trekking","mountain climbing","rock climbing","bungee jumping","ziplining","safari","whale watching","dolphin watching","bird watching","fishing","cycling","mountain biking","horseback riding","camel riding","skiing","snowboarding","ice skating","sledding","shopping","night market","food tour","cooking class","wine tasting","beer tasting","tea ceremony","spa day","yoga retreat","meditation","festival","concert","opera","theater","museum visit","art gallery tour","historical reenactment","castle tour","temple visit","monastery stay","farm stay","volunteering","language exchange","photography tour","stargazing","northern lights viewing","sunset cruise"
+    ]
+  }
+]

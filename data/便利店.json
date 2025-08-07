@@ -1,0 +1,31 @@
+[
+  {
+    "cate_name": "设施",
+    "vocab_list": [
+    "cash register","self-checkout","barcode scanner","shopping basket","shopping cart","refrigerator","freezer","microwave","coffee machine","hot dog roller","ATM","ice machine","beverage cooler","snack rack","magazine rack","lottery ticket machine","cigarette display","alcohol cabinet","first aid kit","security camera","price tag","promotion display","condiment station","trash bin","restroom","shopping bag","paper receipt","digital payment terminal","LED signage","air conditioner","heating system","queue line","door sensor","night light","outdoor seating","vending machine"
+    ]
+  },
+ 
+  {
+    "cate_name": "食品",
+    "vocab_list": [
+   "instant noodles","cup noodles","rice ball/onigiri","sandwich","burger","hot dog","sausage","fried chicken","egg salad","bento box","sushi pack","dumplings","steamed buns","pizza slice","french fries","chicken nuggets","salad","fruit cup","yogurt","pudding","ice cream","chocolate bar","candy","gum","chips","pretzels","popcorn","nuts","trail mix","granola bar","protein bar","cookies","cake slice","donut","muffin","croissant","bread roll","cheese stick","jerky","hard-boiled egg"
+    ]
+  }
+  ,
+ 
+  {
+    "cate_name": "饮料",
+    "vocab_list": [
+   "bottled water","mineral water","sparkling water","soda","cola","lemonade","iced tea","green tea","black tea","oolong tea","herbal tea","coffee (canned)","latte","americano","milk tea","bubble tea","fruit juice","orange juice","apple juice","grape juice","vegetable juice","tomato juice","coconut water","sports drink","energy drink","vitamin water","aloe vera drink","yogurt drink","soy milk","almond milk","oat milk","chocolate milk","strawberry milk","banana milk","barley tea","corn silk tea","ginger tea","honey drink"
+    ]
+  },
+ 
+ 
+  {
+    "cate_name": "服务",
+    "vocab_list": [
+   "heat","brew coffee","brew tea","reheat food","toast bread","heat rice balls","boil eggs","offer condiments","wrap gifts","charge phones","print tickets","receive parcels","send parcels","duplicate keys","sell SIM cards","sell lottery tickets","top up transit cards","sell batteries","rent umbrellas","pump bicycle tires","give first aid","offer free Wi-Fi","provide seating"
+    ]
+  }
+]

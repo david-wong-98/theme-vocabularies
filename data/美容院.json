@@ -1,0 +1,21 @@
+[
+  {
+    "cate_name": "使用工具",
+    "vocab_list": [
+      "facial steamer","blackhead remover","comedone extractor","microdermabrasion machine","high-frequency machine","facial massager","gua sha tool","jade roller","eyebrow trimmer","eyelash curler","tweezers","cuticle nipper","nail file","cuticle pusher","manicure scissors","wax warmer","waxing strips","wax spatula","epilator","hair removal laser","makeup brush cleaner","makeup sponge","callus remover","scalp massager","hair clipper","hair dryer","flat iron","curling iron","hair rollers","facial bed","spa chair","magnifying lamp"
+    ]
+     
+  },
+  {
+    "cate_name": "服务流程",
+    "vocab_list": [
+    "consultation","skin analysis","cleansing","steaming","exfoliation","massage","mask application","moisturizing","sun protection","eyebrow shaping","eyelash perm","facial hair removal","acne treatment","whitening treatment","anti-aging treatment","microdermabrasion","LED therapy","high-frequency treatment","ultrasonic treatment","collagen treatment","lymphatic drainage","hand massage","arm massage","shoulder massage","back treatment","body scrub","aromatherapy","hot stone massage","waxing","aftercare advice","follow-up"
+    ]
+  },
+  {
+    "cate_name": "会员办理",
+    "vocab_list": [
+    "membership registration","membership card","membership fee","annual fee","deposit","gold member","platinum member","basic membership","trial membership","membership benefits","discount","exclusive offers","free services","priority booking","points system","points accumulation","points redemption","referral bonus","birthday gift","membership agreement","terms and conditions","cancellation policy","refund policy","auto-renewal","manual renewal","membership upgrade","membership downgrade","membership freeze","membership termination","ID verification","contact information","signature","electronic membership","physical card"
+    ]
+  }
+]

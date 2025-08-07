@@ -1,0 +1,39 @@
+[
+  {
+    "cate_name": "餐厅类型",
+    "vocab_list": [
+      
+      "fast food restaurant","café","buffet restaurant","food court","bistro","steakhouse","seafood restaurant","italian restaurant","chinese restaurant","japanese restaurant","ramen shop","korean restaurant","Thai restaurant","indian restaurant","mexican restaurant","mediterranean restaurant","vegetarian restaurant","vegan restaurant","bbq restaurant","hot pot restaurant","dim sum restaurant","pizzeria","noodle shop","dessert café","bakery","tea house"
+    ]
+  },
+  {
+    "cate_name": "用餐流程",
+    "vocab_list": [
+    "dine","menu","appetizer","dessert","server","order","recommend","bill","check","ambiance","portions","chef","reservation","feedback","cuisine","gratuity","entrée","side","drink","special","kids' meal","allergy","recommendation","rare","vegan","gluten-free","napkin","cutlery","chopsticks","straw","refill","split","tip","receipt","takeout","leftovers","service","buffet","course","dress code"
+    ]
+  },
+  {
+    "cate_name": "餐具设施",
+    "vocab_list": [
+    "cutlery","fork","knife","spoon","chopsticks","napkin","plate","bowl","glass","mug","cup","teaspoon","tablespoon","salad fork","dessert spoon","steak knife","butter knife","soup spoon","tongs","tray","saucer","straw","toothpick","coaster","table","chair","booth","bar","high chair","waiting area","restroom","kitchen","dining area","patio","takeout counter","display case","buffet station","soda machine","ice machine","cash register","signage","lighting","ventilation","entrance/exit"
+    ]
+  },
+  {
+    "cate_name": "食物类型",
+    "vocab_list": [
+    "organic","nutritious","protein","grain","dairy","snack","dessert","rice","noodles","pasta","bread","pizza","beef","pork","chicken","lamb","duck","fish","shrimp","salad","soup","curry","sandwich","burger","sushi","dumpling","hot pot","BBQ","fried food","grilled food","steamed food","baked food","roasted food","stir-fry","casserole","porridge","pancake","waffle","omelette","cheese","yogurt","ice cream","cake","cookie","chocolate","candy","fruit","juice","tea","coffee","milk","smoothie","wine","beer","cocktail","soda"
+    ]
+  },
+  {
+    "cate_name": "用餐体验",
+    "vocab_list": [
+    "ambience","service","aroma","flavor","texture","portion","freshness","authenticity","atmosphere","hygiene","memorable","disappointing","overpriced","satisfying","exquisite","cozy","lively","romantic","family-friendly","business-like","trendy","traditional","innovative","thematic"
+    ]
+  },
+  {
+    "cate_name": "点餐服务",
+    "vocab_list": [
+    "order","menu","specials","recommendation","beverage","vegan option","gluten-free","spicy level","doneness","substitution","extra","dressing","condiments","takeout","dine-in","napkin","straw","bill","split bill","service charge","tip","receipt","feedback","complaint","special request","seasonal dish","daily special","flavor","sauce","ingredient","recipe","portion"
+    ]
+  }
+]

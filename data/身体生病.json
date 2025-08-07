@@ -1,0 +1,34 @@
+[
+  {
+    "cate_name": "症状",
+    "vocab_list": [
+      
+      
+      "fever","cough","sore throat","runny nose","sneezing","headache","dizziness","nausea","vomiting","diarrhea","stomachache","muscle pain","joint pain","fatigue","weakness","chills","sweating","rash","itching","swelling","shortness of breath","chest pain","congestion","loss of appetite","weight loss","insomnia","blurred vision","earache","toothache","bleeding","bruising","numbness","tingling","palpitations","fainting","confusion","memory loss","dry mouth","dehydration","constipation"
+      
+     
+    ]
+  },
+  {
+    "cate_name": "疾病",
+    "vocab_list": [
+"common cold","flu","COVID-19","allergy","asthma","bronchitis","pneumonia","sinusitis","tonsillitis","ear infection","stomach flu","food poisoning","gastritis","ulcer","diarrhea","constipation","migraine","arthritis","osteoporosis","back pain","hypertension","heart disease","diabetes","high cholesterol","anemia","kidney stones","urinary tract infection (UTI)","skin rash","eczema","psoriasis","acne","conjunctivitis","cavity","gingivitis","depression","anxiety","insomnia","obesity","malnutrition","cancer","tuberculosis","hepatitis","HIV/AIDS","malaria","dengue fever","chickenpox","measles","mumps","rubella","stroke"
+     
+    ]
+  },
+  {
+    "cate_name": "设备",
+    "vocab_list": [
+    "hospital bed","stethoscope","blood pressure monitor","thermometer","oxygen tank","ventilator","defibrillator","ultrasound machine","x-ray machine","MRI scanner","CT scanner","syringe","IV stand","dialysis machine","surgical lights","operating table","anesthesia machine","nebulizer","wheelchair","crutches","walker","hospital cart","patient monitor","pulse oximeter","infusion pump","autoclave","centrifuge","microscope","gurney","nurse call button","surgical instruments","bandages","gauze","catheter","colonoscope","gastroscope","otoscope","ophthalmoscope","sphygmomanometer","surgical scalpel","forceps","suture kit"
+     
+    ]
+  },
+  {
+    "cate_name": "治疗",
+    "vocab_list": [
+    
+     "illness","treatment","diagnosis","therapy","prescription","recovery","surgery","symptom","vaccine","infectious","immune","consultation","side effect","prevention","chronic","dosage","inflammation","antibiotics","painkillers","antiviral drugs","antifungal cream","vaccination","chemotherapy","radiation therapy","physical therapy","acupuncture","massage therapy","chiropractic","psychotherapy","counseling","rehabilitation","first aid","wound dressing","cast","splint","stitches","bandage","ice pack","heat therapy","nebulizer treatment","dialysis","blood transfusion","oxygen therapy","CPR","defibrillation","immunotherapy","hormone therapy","home remedy","herbal medicine","diet therapy","rest","hydration","fasting","detox","stem cell therapy","gene therapy","laser treatment"
+    ]
+  }
+   
+]

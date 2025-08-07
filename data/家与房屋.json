@@ -1,0 +1,57 @@
+[
+  {
+    "cate_name": "卧室",
+    "vocab_list": [
+      "bed","mattress","pillow","blanket","duvet","sheets","pillowcase","nightstand","lamp","alarm clock","dresser","wardrobe","closet","mirror","rug","curtains","blinds","ceiling fan","air conditioner","heater","bookshelf","desk","chair","jewelry box","laundry basket","trash can","plant","diffuser"
+    ]
+  },
+  {
+    "cate_name": "客厅",
+    "vocab_list": [
+    "sofa","coffee table","TV stand","entertainment center","bookshelf","side table","floor lamp","ceiling light","recliner","throw pillow","blanket","rug","curtains","wall art","photo frame","mirror","clock","candles","vase","plant","fireplace","mantel","TV","speaker","game console","remote control","cable box","router","fan","air conditioner","heater","humidifier","air purifier","bar cart","tray","magazine rack","board games","puzzle","pet bed","toy box"
+    ]
+  },
+  {
+    "cate_name": "厨房",
+    "vocab_list": [
+    "refrigerator","oven","stove","microwave","dishwasher","sink","faucet","cabinet","countertop","pantry","blender","toaster","coffee maker","rice cooker","cutting board","pot","pan","spatula","tongs","plate","bowl","fork","spoon","knife","napkin","trash can","recycling bin"
+    ]
+  },
+  {
+    "cate_name": "餐具",
+    "vocab_list": [
+    "plate","bowl","saucer","cup","mug","glass","wine glass","champagne flute","fork","knife","spoon","teaspoon","salad fork","dessert fork","butter knife","steak knife","chopsticks","chopstick rest","serving spoon","ladle","tongs","salt shaker","pepper shaker","sugar bowl","teapot","coffee pot","pitcher","butter dish","bread basket","napkin","placemat","coaster"
+    ]
+  },
+  {
+    "cate_name": "厨具",
+    "vocab_list": [
+    "frying pan","saucepan","pot","wok","stockpot","steamer","dutch oven","pressure cooker","rice cooker","grill pan","baking sheet","roasting pan","casserole dish","mixing bowl","colander","strainer","whisk","spatula","ladle","slotted spoon","tongs","peeler","grater","can opener","corkscrew","measuring cup","measuring spoon","rolling pin","basting brush","cutting board","kitchen shears","meat tenderizer","mortar and pestle","skewers","thermometer","timer"
+    ]
+  },
+  {
+    "cate_name": "书房  ",
+    "vocab_list": [
+    "desk","chair","bookshelf","filing cabinet","lamp","computer","monitor","keyboard","mouse","printer","scanner","desk organizer","pen holder","notebook","calendar","whiteboard","bulletin board","stapler","staples","paper clips","binder","folder","envelope","stamp","glue","scissors","tape","highlighter","marker","pencil","eraser","ruler","calculator","headphones","speaker","usb drive","external hard drive","webcam","microphone","ethernet cable","power strip","desk mat","bookend","reading light","couch","coffee table","plant","clock","artwork"
+    ]
+  },
+  {
+    "cate_name": "浴室",
+    "vocab_list": [
+    "toilet","toilet seat","toilet lid","flush","flush button","bidet","urinal","toilet paper","toilet paper holder","toilet brush","toilet cleaner","plunger","hand soap","hand sanitizer","air freshener","deodorizer","disinfectant spray","trash can","squat toilet","hand dryer","sink","faucet","mirror","light switch","exhaust fan"
+    ]
+  },
+  {
+    "cate_name": "卫生间",
+    "vocab_list": [
+    "bathroom","toilet","shower","bathtub","sink","faucet","drain","tiles","mirror","towel rack","towel","hand towel","bath mat","shower curtain","showerhead","soap dispenser","soap","shower gel","shampoo","conditioner","toothbrush","toothpaste","mouthwash","razor","shaving cream","hair dryer","comb","scale","bidet","vanity","cabinet","shelf","exhaust fan","light switch","bathrobe","slippers","deodorant","cotton swabs","tweezers","nail clippers","lotion","perfume","makeup remover"
+    ]
+  },
+ 
+  {
+    "cate_name": "院子  ",
+    "vocab_list": [
+    "backyard","garden","lawn","grass","fence","gate","patio","garage","driveway","flower bed","tree","bush/shrub","hedge","soil","compost","vegetable garden","flower","weed","sprinkler","hose","watering can","shovel","rake","wheelbarrow","BBQ/grill","outdoor furniture","swing","pool","pond","bird feeder","fire pit","lighting"
+    ]
+  }
+]

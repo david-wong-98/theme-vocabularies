@@ -1,0 +1,33 @@
+[
+  {
+    "cate_name": "成员",
+    "vocab_list": [
+      "family","parents","father/dad","mother/mom","child","son","daughter","sibling","brother","sister","grandparents","grandfather/grandpa","grandmother/grandma","grandchild","grandson","granddaughter","uncle","aunt","cousin","nephew","niece","husband","wife","spouse","fiancé","fiancée","partner","stepparent","stepfather","stepmother","stepchild","stepson","stepdaughter","stepsibling","half-brother","half-sister","daughter-in-law"
+     
+    ]
+  },
+  {
+    "cate_name": "活动",
+    "vocab_list": [
+    "family dinner","movie night","game night","picnic","BBQ","camping","hiking","biking","gardening","cooking together","baking","puzzle solving","reading aloud","storytelling","karaoke","dancing","singing","painting","crafting","board games","card games","video games","sports","swimming","fishing","beach day","zoo visit","museum visit","amusement park","bowling","ice skating","skiing","holiday decorating","gift wrapping","volunteering","family meeting","photo album making","home renovation","yoga/meditation"
+    ]
+  },
+  {
+    "cate_name": "家具",
+    "vocab_list": [
+    "sofa","armchair","coffee table","TV stand","bookshelf","wardrobe","dresser","bed","mattress","nightstand","desk","office chair","dining table","dining chair","bar stool","cabinet","sideboard","console table","ottoman","bench","futon","recliner","rocking chair","chaise lounge","bunk bed","loft bed","folding chair","folding table","vanity table","mirror","coat rack","shoe rack","shelving unit","display cabinet","file cabinet","accent chair","sectional sofa","bean bag","hammock","patio furniture"
+    ]
+  },
+  {
+    "cate_name": "家电",
+    "vocab_list": [
+    "refrigerator","washing machine","air conditioner","television","microwave oven","electric oven","gas stove","induction cooker","range hood","dishwasher","electric kettle","blender","juicer","food processor","rice cooker","slow cooker","pressure cooker","toaster","coffee maker","electric fan","heater","humidifier","air purifier","vacuum cleaner","steam mop","iron","hair dryer","electric toothbrush","shaver","water purifier","water dispenser","dehumidifier","projector","sound system","smart speaker","robot vacuum","electric blanket","massage chair","electric grill","ice maker"
+    ]
+  },
+  {
+    "cate_name": "房屋",
+    "vocab_list": [
+    "apartment","house","villa","townhouse","studio","penthouse","basement","attic","living room","bedroom","kitchen","bathroom","balcony","porch","patio","garden","garage","driveway","fence","roof","ceiling","floor","wall","window","door","stairs","elevator","hallway","closet","utility room","laundry room","dining room","study","nursery","guest room","master bedroom","walk-in closet","open plan","carpet","hardwood floor","tiles","curtains","blinds","furnished","unfurnished","landlord","tenant","lease","rent","deposit","mortgage","renovation","moving in","moving out","neighborhood","suburb"
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "cate_name": "衣服材质",
+    "vocab_list": [
+       "cotton","linen","silk","wool","cashmere","angora","mohair","alpaca","camel hair","polyester","nylon","rayon","viscose","modal","lyocell","spandex","elastane","denim","chiffon","satin","velvet","corduroy","flannel","lace","leather","faux leather","fur","down","feather","bamboo fiber","soybean fiber","organic cotton","waterproof fabric","quick-dry fabric","wrinkle-resistant fabric","pilling","shrinkage","fading","stretching","colorfast","breathability","moisture-wicking","thermal insulation","UV protection"
+    ]
+  },
+  {
+    "cate_name": "洗护用品",
+    "vocab_list": [
+    "laundry detergent","laundry powder","laundry pods","fabric softener","bleach","stain remover","pre-treatment spray","laundry bar soap","wool wash","silk wash","color-safe bleach","enzyme detergent","hypoallergenic detergent","baby laundry detergent","eco-friendly detergent","scent booster","washing machine cleaner","lint roller","lint brush","fabric shaver","stain removal brush","laundry bag","mesh laundry bag","zippered laundry bag","sweater drying rack","static cling remover","ironing water","starch spray","wrinkle release spray","fabric freshener","odor eliminator","moth repellent","hand wash basin","washboard","clothesline","clothes pegs","drying rack","collapsible drying rack","garment steamer","portable steamer","iron","ironing board","water softener","laundry sanitizer","anti-bacterial detergent","UV laundry sanitizer","laundry basket","laundry hamper","sorting hamper","color catcher sheet","laundry scent beads","laundry whitener","garment bag","vacuum storage bag","leather cleaner"
+    ]
+  },
+  {
+    "cate_name": "衣服类型",
+    "vocab_list": [
+    "t-shirt","dress shirt","blouse","polo shirt","sweater","cardigan","hoodie","jacket","coat","down jacket","suit","blaser","vest","dress","sundress","evening gown","skirt","a-line skirt","jeans","dress pants","shorts","leggings","sweatpants","overalls"
+    ]
+  },
+  {
+    "cate_name": "服务类型",
+    "vocab_list": [
+    "regular wash","dry cleaning","hand wash","machine wash","pressing/ironing","stain removal","fabric softening","bleach service","color protection","delicate care","express service","same-day service","next-day service","bulk laundry","wedding dress cleaning","leather cleaning","suede cleaning","down jacket cleaning","curtain cleaning","blanket cleaning","rug cleaning","pillow cleaning","stuffed toy cleaning","shoe cleaning","odor removal","disinfection service","anti-bacterial treatment","anti-static treatment","waterproofing treatment","alteration service","hemming","button replacement","zipper repair","patch repair","folding service","hanging service","packaging service","storage service","delivery service","eco-friendly cleaning","hypoallergenic cleaning","organic cleaning","hand ironing","steam cleaning","color restoration","fabric restoration","shape restoration","vintage garment care","luxury brand care","household items cleaning","car seat cleaning","pet bed cleaning","sports gear cleaning","uniform cleaning","spot cleaning","hand finishing","quality inspection","professional packaging","seasonal storage","mothproof treatment",
+    "wrinkle-free treatment","fabric protection"
+    ]
+  }
+]

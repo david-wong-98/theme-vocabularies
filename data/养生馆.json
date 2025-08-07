@@ -1,0 +1,22 @@
+[
+  {
+    "cate_name": "养生茶",
+    "vocab_list": [
+      "chrysanthemum tea","goji berry tea","hawthorn tea","rose tea","ginger tea","brown sugar ginger tea","longan tea","ginseng tea","honeysuckle tea","mint tea","lemongrass tea","hibiscus tea","lavender tea","chamomile tea","dandelion tea","mulberry leaf tea","lotus leaf tea","pu'er tea"
+      
+      
+    ]
+  },
+  {
+    "cate_name": "养生品",
+    "vocab_list": [
+    "goji berries","astragalus root","ginseng","red dates","longan","reishi mushroom","cordyceps","dendrobium","angelica sinensis","white peony root","licorice root","chrysanthemum","honeysuckle","hawthorn","lotus seed","lily bulb","eucommia bark","cinnamon bark","ginger","turmeric","schisandra berry","wolfberry leaves","poria cocos","atractylodes","mint","rose buds","osmanthus flower","mulberry leaf","lotus leaf"
+    ]
+  },
+  {
+    "cate_name": "项目类",
+    "vocab_list": [
+    "acupuncture","moxibustion","cupping therapy","gua sha","tui na massage","Chinese herbal medicine","fire cupping","bamboo cupping","bloodletting therapy","Chinese massage","herbal compress","medicinal bath","scraping therapy","electro-acupuncture","pediatric tui na","bone-setting therapy","meridian massage","Chinese diet therapy","meditation therapy"
+    ]
+  }
+]

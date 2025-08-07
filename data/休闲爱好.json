@@ -1,0 +1,15 @@
+[
+  {
+    "cate_name": "户外",
+    "vocab_list": [
+    "hiking","backpacking","camping","picnicking","mountain climbing","rock climbing","birdwatching","wildlife photography","nature observation","stargazing","astronomy","fishing","ice fishing","kayaking","canoeing","rafting","surfing","windsurfing","snorkeling","free diving","cycling","mountain biking","road cycling","horseback riding","trail riding","archery","target shooting","paragliding","ice climbing","cross-country skiing","downhill skiing","snowboarding","sledding","dog sledding","ice skating","curling","kite flying","frisbee","outdoor yoga","tai chi","meditation","gardening","urban exploration","photography walks","mushroom hunting","berry picking"
+    ]
+  },
+  {
+    "cate_name": "室内",
+    "vocab_list": [
+    "reading","writing","journaling","blogging","creative writing","poetry","calligraphy","drawing","painting","watercolor","oil painting","digital art","adult coloring","scrapbooking","collage making","origami","paper crafts","knitting","crocheting","embroidery","cross-stitch","sewing","quilting","macramé","candle making","soap making","pottery","clay modeling","sculpting","jewelry making","beading","woodworking","model building","LEGO building","puzzle solving","jigsaw puzzles","crossword puzzles","chess","board games","card games","magic tricks","juggling","playing musical instruments","piano","guitar","violin","ukulele","singing","karaoke","music composition","home recording","podcasting","video editing","photography","indoor plant care","bonsai","terrarium making","fishkeeping","bird keeping","reptile keeping",
+    "cooking","baking","cake decorating","chocolate making","wine tasting","tea appreciation","coffee brewing","mixology","home brewing","meditation","yoga"
+    ]
+  }
+]

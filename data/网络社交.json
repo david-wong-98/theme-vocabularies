@@ -1,0 +1,38 @@
+[
+  {
+    "cate_name": "社交媒体",
+    "vocab_list": [
+   "post","story","reel","feed","hashtag","tag","like","comment","share","repost","DM","follower","following","unfollow","block","mute","verified badge","bio","handle","caption","emoji","filter","edit","delete","archive","highlight","live stream","going live","viewer","engagement","algorithm","viral","trending","explore page","creator","influencer","content","pinned post","save","sticker","poll","Q&A","meme","collaboration","challenge","duet","stitch","superlike","swipe right/left","ghosting","cringe","selfie","photodump","aesthetic","mood","OOTD","GRWM","POV","BTS","IRL"
+    ]
+  },
+  {
+    "cate_name": "手机相关",
+    "vocab_list": [
+    "smartphone","screen","touchscreen","display","resolution","home button","power button","volume button","sim card slot","charging port","headphone jack","speaker","microphone","camera","front camera","rear camera","flash","wide-angle","night mode","portrait mode","hdr","ai camera","fingerprint sensor","face id","battery","battery life","fast charging","wireless charging","reverse charging","processor","ram","storage","expandable storage","operating system","android","ios","update","app","widget","notification","control center","settings","bluetooth","hotspot","gps","compass","water resistance","dust resistance","case","screen protector","pop socket","selfie stick","tripod","adapter","cable","charger","power bank","SIM card"
+    ]
+  },
+  {
+    "cate_name": "内容创作",
+    "vocab_list": [
+    "content creation","influencer","creator","vlogger","blogger","photographer","editor","graphic designer","caption","call-to-action (CTA)","engagement","time-lapse","slow motion","transition","green screen","subtitles","aspect ratio","high-quality (HQ)","lighting setup","ring light","mic setup","lavalier mic","camera angle","BTS (Behind the scenes)","raw footage","rough cut","final cut","color grading","template","brand partnership","sponsored content","affiliate marketing","monetization","analytics","impressions","save rate","share rate","content calendar","batch creating","repurposing content","viral content","challenge","duet","reaction video","tutorial","authenticity","personal brand","media kit"
+    ]
+  },
+  {
+    "cate_name": "新闻资讯",
+    "vocab_list": [
+    "breaking news","headline","news report","journalist","reporter","correspondent","anchor","news agency","press conference","exclusive","scoop","source","anonymous source","leak","investigative journalism","citizen journalism","fake news","misinformation","disinformation","propaganda","censorship","press freedom","media bias","tabloid","broadsheet","news cycle","news bulletin","podcast","freelancer","news wire","circulation","subscription","ad-supported","public broadcasting","news literacy","media ethics","conflict of interest","retraction","correction","update","weather report","traffic report","stock market update","sports news"
+    ]
+  },
+  {
+    "cate_name": "直播互动",
+    "vocab_list": [
+    "hype","promotion","live stream","host","viewer","audience","comment","chat","gift","like","share","follow","subscribe","ban","pin comment","emoji","sticker","poll","guest","screen share","tech issues","lag","buffering","refresh","resolution","green screen","filter","background music","sound effect","countdown","new follower","spam","energy","engagement","viewer count","schedule","rewatch","unboxing","replay"
+    ]
+  },
+  {
+    "cate_name": "在线购物",
+    "vocab_list": [
+    "online shopping","e-commerce","website","account","login","sign up","search bar","product page","product image","description","specifications","reviews","ratings","price","original price","discount price","sale","coupon","promo code","limited-time offer","flash sale","daily deals","group buy","bundle deal","free shipping","shipping fee","add to cart","shopping cart","wishlist","checkout","payment method","credit card","debit card","digital wallet","cash on delivery (COD)","invoice","order confirmation","order number","tracking number","shipping status","estimated delivery","delivered","return","refund","exchange","customer service","live chat","size guide","color options","in stock","out of stock","pre-order","restock","new arrival","best seller","recommended","related products","recently viewed","personalization","gift wrapping"
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "cate_name": "天气类型",
+    "vocab_list": [
+    
+     "sunny","cloudy","overcast","rainy","drizzle","showers","thunderstorm","lightning","foggy","misty","hazy","windy","breezy","stormy","snowy","sleet","hail","blizzard","frosty","hot","warm","mild","cool","cold","freeze","humid","dry","clear","scorching","typhoon","hurricane","cyclone","tornado","waterspout","tropical storm","sandstorm","dust storm","heat wave","cold snap"
+    ]
+  },
+  {
+    "cate_name": "季节",
+    "vocab_list": [
+    "spring","summer","autumn/fall","winter","rainy season","dry season","monsoon","harvest season","peak season","off-season","breeding season","migration season","flowering season","fruiting season","leaf-fall season"
+     
+    ]
+  },
+  {
+    "cate_name": "温度",
+    "vocab_list": [
+    "temperature","thermometer","room temperature","body temperature","normal temperature","boiling point","freezing point","melting point","heat","cold","warm","cool","hot","chilly","frosty","scorching","humid heat","dry heat","insulation","heatstroke","frostbite"
+     
+    ]
+  },
+  {
+    "cate_name": "降水",
+    "vocab_list": [
+    "precipitation","downpour","thunderstorm","rainfall","rain gauge","dew","humidity","condensation","evaporation","cloudburst","flood","raindrop","rainwater","precipitation rate","drizzle","downpour warning","snow flurry"
+     
+    ]
+  },
+  {
+    "cate_name": "季节性活动",
+    "vocab_list": [
+    "skiing","snowboarding","ice skating","camping","hiking","picnicking","swimming","sunbathing","surfing","kayaking","canoeing","fishing","cycling","rock climbing","berry picking","leaf peeping","gardening","sledding","building a snowman","winter carnival","christmas markets","new year’s eve fireworks","cherry blossom viewing","stargazing","bonfire","outdoor yoga"
+     
+    ]
+  }
+   
+]

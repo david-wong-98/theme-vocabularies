@@ -1,0 +1,14 @@
+[
+  {
+    "cate_name": "服装",
+    "vocab_list": [
+    "t-shirt","shirt","blouse","polo shirt","sweater","hoodie","jacket","coat","down jacket","windbreaker","raincoat","suit","vest","cardigan","tank top","dress","evening gown","skirt","A-line skirt","pleated skirt","jeans","skinny jeans","straight jeans","pants","cargo pants","palazzo pants","shorts","cycling shorts","leggings","underwear","bra","sports bra","panties","briefs","thong","shapewear","pajamas","nightgown","robe","swimsuit","bikini","one-piece swimsuit","kimono","cheongsam","kaftan","kilt","poncho","cape","turtleneck","tunic","peacoat"
+    ]
+  },
+  {
+    "cate_name": "饰品",
+    "vocab_list": [
+    "necklace","pendant","choker","locket","pearl necklace","chain","earrings","drop earrings","clip-on earrings","ear cuff","bracelet","bangle","anklet","ring","engagement ring","wedding band","brooch","pin","tie clip","cufflinks","watch","smartwatch","fitness tracker","pocket watch","hair clip","hairpin","headband","barrettes","tiara","sunglasses","glasses","glasses chain","belt","buckle","waist chain","nose ring","crystal","gemstone","diamond","ruby","sapphire","emerald","pearl","amber","jade","turquoise","topaz","garnet","amethyst","aquamarine","peridot","moonstone","birthstone"
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "cate_name": "快递",
+    "vocab_list": [
+    "express delivery","courier","package","shipping","tracking number","sender","recipient","delivery address","pick-up","drop-off","shipping fee","COD ( Cash on Delivery)","estimated delivery time","same-day delivery","next-day delivery","international shipping","fragile","signature required","return to sender","lost package","damaged package","insurance","compensation","parcel locker","self-pickup station","logistics","air freight","sea freight","land transportation","real-time tracking","delivery notification","customer service"
+    ]
+  },
+ 
+  {
+    "cate_name": "外卖",
+    "vocab_list": [
+    "food delivery","takeout","delivery app","delivery fee","minimum order","delivery time","rider","courier","tracking","contactless delivery","order confirmation","disposable chopsticks","packaging","late delivery","refund","rating","promo code","free delivery","combo meal","snacks","beverages","desserts","online payment","cash on delivery","preparing","on the way","delivered","leftovers","food safety","delivery area","peak hours","order history","group order","scheduled delivery"
+    ]
+  }
+   
+]

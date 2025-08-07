@@ -1,0 +1,20 @@
+[
+  {
+    "cate_name": "合同",
+    "vocab_list": [
+    "lease agreement","tenant","landlord","rent","deposit","utility","lease term","renewal","eviction","security deposit","monthly rent","roommate agreement","pet policy","maintenance responsibility","late fee","move-in inspection","force majeure","jurisdiction","inventory list","insurance","tenant rights"
+    ]
+  },
+  {
+    "cate_name": "装修",
+    "vocab_list": [
+    "renovation","interior design","floor plan","demolition","electrical work","plumbing","wall painting","wallpaper","tiles","flooring","hardwood floor","carpet","ceiling","lighting","chandelier","track lighting","cabinet","countertop","backsplash","kitchen island","bathroom fixtures","shower","bathtub","vanity","mirror","faucet","sink","toilet","window","curtains","blinds","door","sliding door","closet","shelving","staircase","handrail","fireplace","insulation","soundproofing","ventilation","smart home system","furniture assembly","final inspection"
+    ]
+  },
+  {
+    "cate_name": "搬家",
+    "vocab_list": [
+    "move","moving company","movers","moving truck","boxes","packing tape","bubble wrap","pack","unpack","furniture","label","fragile","heavy","load","unload","deposit","address change","storage","inventory","elevator","stairs"
+    ]
+  }
+]

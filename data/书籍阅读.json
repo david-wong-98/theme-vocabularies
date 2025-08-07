@@ -1,0 +1,15 @@
+[
+  {
+    "cate_name": "书籍类型",
+    "vocab_list": [
+    "fiction","non-fiction","novel","short story","novella","mystery","thriller","horror","crime","detective","romance","historical fiction","science fiction","adventure","war novel","spy fiction","literary fiction","contemporary fiction","magical realism","fairy tale","fable","mythology","legend","biography","autobiography","memoir","diary","journal","history","political science","philosophy","psychology","sociology","self-help","motivational","business","economics","finance","health & fitness","diet","cookbook","travel guide","language learning","textbook","reference book","encyclopedia","dictionary","thesaurus","poetry","haiku","sonnet","epic poetry","prose poetry","drama","tragedy","comedy","screenplay","graphic novel","comic book","manga",
+    "webcomic","picture book","children's literature","Bible","Quran","Buddhist scripture","science","mathematics","physics","chemistry","biology","technology","computer science","engineering","artificial intelligence","robotics","art","photography","architecture","music","film","true crime","essay collection","anthology"
+    ]
+  },
+  {
+    "cate_name": "阅读习惯",
+    "vocab_list": [
+    "reading habits","bookworm","avid reader","speed reading","deep reading","skimming","scanning","bedtime reading","morning reading","commute reading","reading preferences","genre preference","author preference","print book lover","e-book enthusiast","audiobook listener","reading environment","background music","coffee shop reading","library reading","outdoor reading","reading nook","note-taking","highlighting","marginalia","book journaling","discussion","book club participation","reading challenges","reading goal","book count challenge","diverse reading","reading slump","rereading","digital distraction","focus reading","reading posture","reading accessories","bookmark","reading light","reading glasses","book stand","reading tracking","intrinsic motivation","extrinsic motivation","reading rewards","reading influence","reading recommendations","friend recommendations","physical books","e-books","audiobooks","online articles","reading obstacles","time constraints","eye strain","attention span"
+    ]
+  }
+]

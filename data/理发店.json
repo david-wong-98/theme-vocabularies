@@ -1,0 +1,22 @@
+[
+  {
+    "cate_name": "工具",
+    "vocab_list": [
+      "scissors","clippers","razor","straight razor","hair dryer","flat iron","curling iron","hair rollers","comb","brush","sectioning clips","bowl","tint brush","foils","cape","spray bottle","hair clips","hair ties","blowout brush","thinning shears","shaving cream","shaving brush","shaving bowl","hair color","bleach","gloves","mixing bowl","hood dryer","steamer","hair wax"
+      
+      
+    ]
+  },
+  {
+    "cate_name": "产品",
+    "vocab_list": [
+    "shampoo","conditioner","hair mask","scalp treatment","hair color","bleach","developer","hair dye","highlighting kit","hair gel","hair wax","hair pomade","hair serum","hair oil","scalp oil","anti-frizz product","curl defining cream","beard oil","beard balm","shaving cream","shaving foam","hair growth serum","dandruff treatment","scalp scrub","perm solution"
+    ]
+  },
+  {
+    "cate_name": "发型",
+    "vocab_list": [
+    "bob","pixie cut","layered cut","fade","buzz cut","crew cut","quiff","afro","braids","cornrows","dreadlocks","twists","bun","top knot","ponytail","french twist","updo","beach waves","curls","ringlets","straight hair","wavy hair","perm","spiral perm","root perm","ombré","highlights","full color","root touch-up","blunt bangs","asymmetrical cut","shag cut","bowl cut"
+    ]
+  }
+]

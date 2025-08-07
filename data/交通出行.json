@@ -1,0 +1,70 @@
+[
+  {
+    "cate_name": "交通工具",
+    "vocab_list": [
+     "car","bus","truck","van","motorcycle","bicycle","scooter","train","subway","tram","taxi","ambulance","fire truck","police car","boat","ship","ferry","yacht","canoe","kayak","airplane","helicopter","jet","glider","hot air balloon","spaceship","skateboard","segway","electric scooter","electric bike","rickshaw","sled","snowmobile","bullet train / high-speed train"
+    ]
+  },
+  {
+    "cate_name": "交通设施",
+    "vocab_list": [
+      "road","highway","expressway","bridge","tunnel","overpass","underpass","sidewalk","crosswalk","pedestrian bridge","traffic light","stop sign","roundabout","bus stop","bus lane","parking lot","parking garage","rest area","toll booth","railway station","subway station","platform","ticket booth","waiting room","terminal","runway","airport","harbor","dock","pier","ferry terminal","bike lane","traffic circle","speed bump","guardrail","streetlight","intersection","zebra crossing"
+      
+     
+     
+    ]
+  },
+  
+  {
+    "cate_name": "交通票务",
+    "vocab_list": [
+      "first class","business class","economy class","window seat","aisle seat","middle seat","exit row seat","boarding pass","e-ticket","paper ticket","reservation","booking","fare","discount fare","full fare","refund","cancellation","ticket counter","ticket machine","ticket inspector","conductor","upgrade","luggage ticket","transfer ticket","rail pass","bus pass","metro card","recharge/ top up","balance","validity period","expiration date","lost ticket","sleeper berth","hard seat","soft seat","upper berth","middle berth","lower berth","reclining seat"
+      
+     
+     
+    ]
+  },
+  
+  {
+    "cate_name": "交通指示",
+    "vocab_list": [
+      "traffic light","stop sign","speed limit sign","no entry sign","one-way sign","pedestrian crossing sign","school zone sign","construction sign","detour sign","roundabout sign","lane merge sign","no parking sign","no U-turn sign","keep right sign","keep left sign","curve sign","steep hill sign","slippery road sign","animal crossing sign","railroad crossing sign","bicycle lane sign","bus lane sign","toll booth sign","rest area sign","exit sign","entrance sign","direction sign","distance sign","pedestrian zone sign","tunnel sign","bridge sign","height limit sign","weight limit sign","width limit sign","no horn sign","no overtaking sign"
+      
+     
+     
+    ]
+  },
+  
+  {
+    "cate_name": "出行状态",
+    "vocab_list": [
+      "on time","delayed","cancelled","boarding","departed","arrived","in transit","waiting","scheduled","missed","diverted","stranded","checking in","security check","boarding completed","gate closed","gate open","flight status","train status","onboard","standby","upgraded","downgraded","rebooked","refunded","cancellation confirmed","reservation confirmed","booking pending","ticket issued","ticket voided","ticket refunded","ticket cancelled","ticket expired","congestion","commute","detour","navigation","rush hour"
+      
+     
+     
+    ]
+  },
+  
+  {
+    "cate_name": "服务设施",
+    "vocab_list": [
+      
+      "information desk","customer service","help desk","lost and found","restroom","baby changing room","nursing room","charging station","Wi-Fi hotspot","ATM","currency exchange","luggage storage","locker","shower room","prayer room","smoking area","pet relief area","first aid station","wheelchair access","elevator","escalator","handrail","seating area","waiting room","lounge","business center","conference room","play area","food court","vending machine","water dispenser","ticket counter","baggage claim","boarding gate","security checkpoint","customs","immigration","taxi stand","shuttle service"
+     
+     
+    ]
+  },
+  
+  {
+    "cate_name": "",
+    "vocab_list": [
+      
+      "passport","visa","customs","boarding pass","check-in","departure","arrival","transfer","luggage","carry-on","checked baggage","baggage claim","travel insurance","itinerary","hotel reservation","car rental","currency exchange","foreign currency","local time","time zone","jet lag","sightseeing","tour guide","tourist attraction","landmark","museum","art gallery","historical site","theme park","beach","mountain","hiking","cruise","souvenir","local cuisine","language barrier","carousel","layover","international flight","domestic flight","direct flight","immigration control","baggage allowance","duty-free shops","security check","excess baggage"
+     
+     
+    ]
+  }
+  
+  
+   
+]

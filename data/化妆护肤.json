@@ -1,0 +1,58 @@
+[
+  {
+    "cate_name": "化妆品",
+    "vocab_list": [
+     "foundation","concealer","powder","blush","bronzer","highlighter","eyeshadow","eyeliner","mascara","eyebrow pencil","eyebrow gel","false eyelashes","lipstick","lip gloss","lip liner","lip balm","makeup primer","setting spray","makeup remover","color corrector","contour stick","cream blush","liquid eyeliner","gel eyeliner","kohl pencil","eyeshadow primer","glitter eyeshadow","makeup palette","BB cream","CC cream","makeup sponge","makeup brush","eyelash glue","eyelash curler","brow pomade","brow powder","matte lipstick","glossy lipstick","cleansing oil","eyelash base"
+     
+    ]
+  },
+  {
+    "cate_name": "护肤品",
+    "vocab_list": [
+     "cleanser","facial wash","toner","essence","serum","moisturizer","cream","gel","lotion","eye cream","eye gel","eye mask","face mask","sheet mask","sleeping mask","scrub","sunscreen","sunblock","cleansing oil","cleansing balm","cleansing foam","facial mist","hydrating toner","AHA/BHA","vitamin C serum","hyaluronic acid","niacinamide","lip balm","hand cream","body lotion","body wash","body scrub","neck cream","whitening cream","anti-aging cream","firming cream","pore minimizer","acne treatment"
+
+      
+    ]
+  },
+  {
+    "cate_name": "皮肤问题",
+    "vocab_list": [
+     
+"acne","blackheads","whiteheads","pimples","cystic acne","oily skin","dry skin","combination skin","sensitive skin","rosacea","redness","flaking","itching","rash","eczema","dermatitis","psoriasis","dark spots","hyperpigmentation","melasma","freckles","sunspots","dark circles","puffy eyes","wrinkles","fine lines","sagging skin","enlarged pores","clogged pores","dehydration","dull skin","uneven skin tone","scars","acne scars","stretch marks","hives","allergic reaction","burning sensation","stinging","tightness","breakout","peeling","irritation","inflammation","bumps","white bumps (milia)","chapped lips","sunburn","windburn"
+      
+    ]
+  },
+  {
+    "cate_name": "化妆技巧",
+    "vocab_list": [
+     
+"color correct","contour","highlight","blend","stipple","dewy finish","matte finish","no-makeup look","perm lashes","full coverage"
+      
+    ]
+  },
+  {
+    "cate_name": "医美",
+    "vocab_list": [
+     "botox","filler","hyaluronic acid","laser hair removal","liposuction","thread lift","rhinoplasty","facelift","brow lift","chin augmentation","cheek filler","lip augmentation","neck lift","laser tattoo removal","acne laser","underarm whitening","skin booster","double eyelid surgery","blepharoplasty","jawline contouring","cheekbone reduction","fat grafting","breast augmentation"
+
+      
+    ]
+  },
+  {
+    "cate_name": "美甲  ",
+    "vocab_list": [
+     "manicure","pedicure","nail polish","gel polish","acrylic nails","nail art","French manicure","ombré nails","glitter nails","matte nails","nail stickers","nail extensions","nail forms","cuticle care","nail filing","nail buffing","base coat","top coat","UV lamp","LED lamp","nail drill","nail brush","dotting tool","nail stamping","3D nail art","nail charms","pearls","nail glue","nail clippers","cuticle pusher","cuticle nipper","hand mask","nail repair","nail biting","nail fungus","nail salon","nail shape","nail prep","nail removal"
+
+      
+    ]
+  },
+  {
+    "cate_name": "美睫",
+    "vocab_list": [
+     
+"eyelash extensions","volume lashes","lash tint","lash glue","lash removal","lash technician","lash salon","lash care","false lashes","lash serum","lash curling","lash brush","lash thickness","lash design","lash styles","lash extensions kit","lash maintenance"
+      
+    ]
+  }
+  
+]

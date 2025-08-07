@@ -1,0 +1,107 @@
+[
+  {
+    "cate_name": "蔬菜",
+    "vocab_list": [
+      "tomato","cucumber","carrot","potato","onion","garlic","ginger","bell pepper","chili pepper","eggplant","cabbage","Chinese cabbage","spinach","lettuce","celery","broccoli","cauliflower","pumpkin","zucchini","mushroom","corn","green bean","pea","asparagus","radish","sweet potato","taro","lotus root","bamboo shoot","bitter gourd","okra","leek","spring onion","coriander","parsley","basil","mint"
+
+
+      
+    ]
+  },
+  {
+    "cate_name": "水果",
+    "vocab_list": [
+      "apple","banana","orange","pear","grapes","watermelon","melon","pineapple","mango","peach","cherry","strawberry","blueberry","raspberry","blackberry","kiwi","lemon","lime","plum","apricot","grapefruit","coconut","pomegranate","fig","dragon fruit","passion fruit","avocado","persimmon","lychee","longan","jackfruit","durian","tangerine"
+      
+    ]
+  },
+  {
+    "cate_name": "肉类",
+    "vocab_list": [
+      "pork","beef","chicken","duck","lamb","mutton","turkey","goose","rabbit","venison","bacon","ham","sausage","hot dog","pepperoni","chicken wings","chicken thigh","chicken breast","tenderloin","filet mignon","ground meat","organ meat","liver","kidney","heart","tongue","tripe","oxtail","pork knuckle","beef shank","chicken feet","duck feet","beef ribs","lamb chops","beef brisket","chicken gizzard"
+      
+    ]
+  },
+  {
+    "cate_name": "海鲜",
+    "vocab_list": [
+      "fish","salmon","tuna","cod","bass","sardine","mackerel","trout","carp","catfish","sole","flounder","herring","anchovy","eel","squid","octopus","cuttlefish","shrimp","prawn","lobster","crab","crayfish","clam","oyster","scallop","abalone","conch","sea urchin","jellyfish","sea cucumber","krill","roe","caviar","dried shrimp","salted fish","fish ball","fish cake","sashimi","fish fillet","fish head","fish bone","fish soup","seafood platter"
+      
+    ]
+  },
+  {
+    "cate_name": "快餐",
+    "vocab_list": [
+      "burger","cheeseburger","chicken burger","fish burger","veggie burger","hot dog","sandwich","wrap","fried chicken","chicken nuggets","chicken wings","french fries","onion rings","mashed potatoes","pizza","pepperoni pizza","taco","burrito","nachos","dumplings","fried rice","noodles","pasta","fried shrimp","fish and chips","corn dog","hash browns","pancakes","milkshake","kids meal","value meal","takeout","delivery","fast food chain"
+      
+    ]
+  },
+  {
+    "cate_name": "调料",
+    "vocab_list": [
+      "salt","pepper","sugar","soy sauce","oyster sauce","vinegar","balsamic vinegar","rice vinegar","apple cider vinegar","ketchup","mustard","mayonnaise","BBQ sauce","hot sauce","chili sauce","teriyaki sauce","sesame oil","olive oil","vegetable oil","peanut butter","jam","honey","maple syrup","garlic powder","onion powder","ginger powder","five-spice powder","cumin","cinnamon","turmeric","paprika","curry powder","bay leaf","oregano","basil","thyme","rosemary","sage","dill","parsley","coriander","mint","star anise","cloves","nutmeg","vanilla extract"
+      
+    ]
+  }, {
+    "cate_name": "坚果",
+    "vocab_list": [
+      "peanut","almond","walnut","cashew","pistachio","hazelnut","pecan","macadamia","brazil nut","pine nut","chestnut","coconut","sunflower seed","pumpkin seed","sesame seed","chia seed","flaxseed","poppy seed","watermelon seed","melon seed","nut butter","nut milk","granola","energy bar"
+      
+    ]
+  }, {
+    "cate_name": "面包      ",
+    "vocab_list": [
+      "white bread","whole wheat bread","multigrain bread","sourdough bread","rye bread","baguette","ciabatta","croissant","bagel","pita bread","naan","focaccia","challah","banana bread","zucchini bread","pumpkin bread","cornbread","garlic bread","toast","sandwich bread","hamburger bun","pancake","waffle","crepe","donut","muffin","scone","cinnamon roll","pretzel","breadstick","tortilla","chapati","pumpernickel"
+      
+    ]
+  }, {
+    "cate_name": "甜品",
+    "vocab_list": [
+      "cake","cheesecake","chocolate cake","red velvet cake","tiramisu","mousse","pudding","ice cream","milkshake","sundae","parfait","pie","apple pie","pumpkin pie","tart","fruit tart","macaron","cookie","chocolate chip cookie","brownie","donut","cupcake","muffin","waffle","pancake","crepe","baklava","marshmallow","fudge","toffee","caramel","truffle","fondant","marzipan","gummy candy","lollipop","rock candy"
+      
+    ]
+  }, {
+    "cate_name": "小料  ",
+    "vocab_list": [
+      "bubble pearl","brown sugar pearl","coconut jelly","pudding","grass jelly","red bean","mung bean","oats","sago","taro ball","sweet potato ball","herbal jelly","popping boba","juicy boba","cheese foam","oreo crumbs","nut crumbs","chocolate sauce","caramel sauce","taro paste","purple sweet potato paste","mochi","crystal boba"
+      
+    ]
+  }, {
+    "cate_name": "味道",
+    "vocab_list": [
+      "sweet","sour","bitter","spicy","salty","savory","mild","rich","bland","pungent","buttery","creamy","earthy","smoky","herbal","floral","fruity","nutty","caramelized","toasted","fishy","fresh","ripe","unripe","overripe","fermented","vinegary","woody","peppery"
+      
+    ]
+  }, {
+    "cate_name": "状态  ",
+    "vocab_list": [
+      
+      "raw","ripe","unripe","overripe","fresh","stale","soft","tender","hard","crunchy","crispy","chewy","tough","juicy","dry","moist","soggy","mushy","creamy","fluffy","dense","grainy","smooth","lumpy","stringy","fibrous","gelatinous","sticky","gooey","thick","watery","fizzy","frozen","thawed","cooked","undercooked","overcooked","burnt","charred"
+    ]
+  }, {
+    "cate_name": "奶类",
+    "vocab_list": [
+      "milk","cheese","yogurt","butter","cream","whipping cream","heavy cream","sour cream","skim milk","whole milk","low-fat milk","goat milk","condensed milk","evaporated milk","milk powder","cottage cheese","cream cheese","Greek yogurt","flavored yogurt","probiotic yogurt"
+      
+    ]
+  }, {
+    "cate_name": "零食  ",
+    "vocab_list": [
+      "coke","pepsi","chips","popcorn","chocolate","sunflower seeds","gummy candy","rice crust","jelly","sprite","fanta","biscuits","cookies","candy","toffee","caramel","bubble gum","chewing gum","cotton candy","pudding","yogurt","ice cream","soda","milk tea","bubble tea","beef jerky","instant noodles","rice crackers","salted peanuts","dried mango","dried plums","seaweed snacks","hot strips","marshmallow","candied fruit","haw flakes","dried fruit","mochi","taffy","pretzels","cereal bars","granola bars","hard candy","lollipops"
+      
+    ]
+  }, {
+    "cate_name": "谷物",
+    "vocab_list": [
+      "wheat","rice","corn","barley","oats","rye","millet","sorghum","buckwheat","quinoa","spelt","job's tears","pearl millet"
+      
+    ]
+  }, {
+    "cate_name": "豆类",
+    "vocab_list": [
+      "soybean","edamame","black bean","red bean","kidney bean","mung bean","chickpea","lentil","peanut","broad bean","white bean","navy bean","black-eyed pea","green pea","natto","bean paste","hummus"
+      
+    ]
+  }
+  
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "cate_name": "基础工程词汇",
+    "vocab_list": [
+      "engineering","project","design","construction","supervision","material","structure","quality","safety","schedule"
+      
+    ]
+  },
+  {
+    "cate_name": "土木工程词汇",
+    "vocab_list": [
+      "soil","foundation","bridge","tunnel","pavement","hydraulic engineering","harbor","road","railway","subway"
+    ]
+  },
+  {
+    "cate_name": "建筑工程词汇",
+    "vocab_list": [
+      "building","floor","wall","roof","window","door","stairs","curtain wall","decoration","interior design"
+    ]
+  },
+  {
+    "cate_name": "电气工程词汇",
+    "vocab_list": [
+      "circuit","wire","switch","outlet","generator","transformer","motor","battery","illumination","control system"
+    ]
+  },
+  {
+    "cate_name": "机械工程词汇  ",
+    "vocab_list": [
+      "machine","part","bearing","gear","lubrication","fastener","welding","stamping","machining","assembly"
+    ]
+  },
+  {
+    "cate_name": "环境工程词汇",
+    "vocab_list": [
+      "environment","pollution","wastewater","waste gas","noise","solid waste","pollution control","energy saving","environmental protection","sustainable development"
+    ]
+  },
+  {
+    "cate_name": "信息技术工程词汇",
+    "vocab_list": [
+      "information technology","network","server","database","programming","software development","hardware","cloud computing","big data"
+    ]
+  },
+  {
+    "cate_name": "化学工程词汇",
+    "vocab_list": [
+      "chemical reaction","fluid mechanics","thermodynamics","separation process","reactor","material science","mass transfer","energy transfer","process control","safety engineering"
+    ]
+  },
+  {
+    "cate_name": "航空航天工程词汇",
+    "vocab_list": [
+      "aeronautics","astronautics","aircraft","launch","spacecraft","navigation","flight control system","rocket","satellite","space station"
+    ]
+  },
+  {
+    "cate_name": "生物医学工程词汇",
+    "vocab_list": [
+      "biomedical","biomaterial","medical device","biomechanics","cell engineering","genetic engineering","bionics","biosensor","medical imaging","tissue engineering"
+    ]
+  },
+  {
+    "cate_name": "项目管理词汇",
+    "vocab_list": [
+      "project management","project manager","project planning","project budget","project schedule","risk management","quality management","cost control","team collaboration","project delivery"
+    ]
+  },
+  {
+    "cate_name": "绿色建筑与可持续性词汇",
+    "vocab_list": [
+      "green building","sustainability","energy efficiency","carbon emission","green certification","eco design","resource recycling","biodiversity","low impact development","environmental life cycle assessment"
+    ]
+  },
+  {
+    "cate_name": "电子工程与自动化词汇",
+    "vocab_list": [
+      "electronics engineering","circuit board","integrated circuit (IC)","sensor","automation","control system","robotics","servo motor","programmable logic controller (PLC)","industrial internet of things (IIoT)"
+    ]
+  },
+  {
+    "cate_name": "地质工程与矿业词汇",
+    "vocab_list": [
+      "geological engineering","stratum","geotechnical engineering","drilling","mining","excavation","rock mechanics","groundwater","landslide prevention","mineral processing"
+    ]
+  }
+]

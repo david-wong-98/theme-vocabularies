@@ -1,0 +1,40 @@
+[
+  {
+    "cate_name": "动物",
+    "vocab_list": [
+     "dog","cat","rabbit","hamster","guinea pig","mouse","rat","horse","donkey","mule","cow","bull","ox","sheep","ram","lamb","goat","pig","boar","hedgehog","squirrel","chipmunk","beaver","otter","badger","raccoon","fox","wolf","coyote","jackal","bear","polar bear","brown bear","black bear","panda","koala","kangaroo","wallaby","possum","opossum","sloth","armadillo","anteater","aardvark","deer","moose","elk","caribou","reindeer","giraffe","okapi","elephant","African elephant","Asian elephant","zebra","rhinoceros","hippopotamus","tapir","bison","buffalo",
+     "yak","camel","dromedary","bactrian camel","llama","alpaca","jaguar","leopard","cheetah","tiger","lion","cougar","puma","lynx","bobcat","hyena","meerkat","mongoose","ferret","marmot","prairie dog","chinchilla","porcupine","tarsier","lemur","baboon","monkey","chimpanzee","gorilla","orangutan","turtle","tortoise","lizard","chameleon","gecko","skink","monitor lizard","snake","python","cobra","frog","toad","newt","crocodile","alligator"
+    ]
+  },
+  {
+    "cate_name": "鸟类",
+    "vocab_list": [
+    "bird","sparrow","swallow","pigeon","crow","raven","magpie","blackbird","thrush","lark","nightingale","robin","woodpecker","cuckoo","kingfisher","parrot","macaw","cockatoo","canary","finch","hummingbird","peacock","ostrich","emu","cassowary","kiwi","penguin","albatross","seagull","pelican","heron","egret","stork","crane","flamingo","swan","duck","mallard","goose","turkey","chicken","rooster","hen","quail","pheasant","grouse","partridge","falcon","peregrine falcon","eagle","golden eagle","bald eagle","hawk","owl"
+    ]
+  },
+  {
+    "cate_name": "昆虫",
+    "vocab_list": [
+    "ant","bee","wasp","hornet","butterfly","moth","dragonfly","damselfly","grasshopper","cricket","locust","cockroach","termite","beetle","ladybug (ladybird)","firefly","stag beetle","weevil","dung beetle","scarab","caterpillar","silkworm","centipede","millipede","stick insect","praying mantis","flea","louse","tick","bedbug","mosquito","fly","housefly","fruit fly","midge","cicada","aphid","leafhopper","planthopper","shield bug","water strider","mayfly","stonefly","lacewing"
+    ]
+  },
+  {
+    "cate_name": "花朵",
+    "vocab_list": [
+    "rose","lily","tulip","sunflower","daisy","orchid","peony","chrysanthemum","lavender","jasmine","camellia","azalea","hibiscus","carnation","lotus","dandelion","violet","hydrangea","poppy","magnolia","begonia","iris","daffodil","cherry blossom","plum blossom"
+    ]
+  },
+  {
+    "cate_name": "植物  ",
+    "vocab_list": [
+    "oak","maple","pine","willow","cherry tree","plum tree","apple tree","peach tree","bamboo","palm tree","cactus","aloe vera","ivy","grass","fern","moss","rose","sunflower","lavender","dandelion","chrysanthemum","tulip","peony","mint","basil","thyme","oregano","parsley","ginseng","tea plant","grape vine",
+    "lotus","water lily","duckweed","cattail","reed","algae","kelp","seaweed","hornwort","water clover","moss","bladderwort","papyrus","water lettuce"
+    ]
+  },
+  {
+    "cate_name": "水生动物",
+    "vocab_list": [
+    "goldfish","carp","catfish","tuna","salmon","trout","cod","eel","shark","swordfish","mackerel","sardine","crab","lobster","shrimp / prawn","octopus","squid","clam","mussel","oyster","scallop","jellyfish","dolphin","whale","seal","sea lion","coral","plankton"
+    ]
+  }
+]

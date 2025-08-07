@@ -1,0 +1,50 @@
+[
+  {
+    "cate_name": "购物场所",
+    "vocab_list": [
+      
+      
+      "shopping mall","department store","supermarket","grocery store","convenience store","pharmacy","bookstore","electronics store","clothing store","shoe store","jewelry store","toy store","furniture store","hardware store","florist","pet store","liquor store","beauty supply store","bakery"
+      
+      
+    ]
+  },
+  {
+      
+    "cate_name": "支付结算",
+    "vocab_list": [
+     "cash","credit card","debit card","alipay","wechat pay","apple pay","bank transfer","gift card","voucher","coupon","loyalty points","split bill","invoice","receipt","change","tip","service charge","tax","refund","installment payment","qr code payment","online payment","check","exchange rate","transaction fee","overdraft","balance","payment confirmation","payment method","billing address","cardholder name","card number","expiry date","authorization","pending payment","failed payment","successful payment","automatic payment","partial payment","full payment","payment due","late payment","payment reminder","payment history"
+    ]
+  },
+  {
+    "cate_name": "商品属性",
+    "vocab_list": [
+     "brand","model","size","color","material","weight","price","original price","discount price","quantity","stock","availability","refurbished","vintage","limited edition","seasonal","pattern","style","design","function","feature","specification","ingredient","fabric","care instructions","battery included","waterproof","shockproof","eco-friendly","organic","hypoallergenic","expiration date","production date","batch number","barcode","QR code","warranty","return policy","certification","customer rating"
+    ]
+  },
+  {
+    "cate_name": "购物习惯",
+    "vocab_list": [
+     "impulse purchase","bargain hunting","window shopping","online shopping","in-store shopping","bulk buying","pre-ordering","seasonal shopping","gift shopping","price comparison","thrifty shopping","luxury shopping","late-night shopping","wishlist shopping","try before you buy","haul shopping","minimalist shopping","repeat purchasing","splurging","emotional spending","reward-based shopping","group buying","duty-free shopping","pop-up shopping","virtual shopping"
+    ]
+  },
+  {
+    "cate_name": "购物优惠",
+    "vocab_list": [
+     "discount","promotion","sale","clearance sale","seasonal sale","flash sale","buy one get one free (BOGO)","special offer","limited-time offer","early bird discount","membership discount","coupon","promo code","voucher","gift card","earn points","free shipping","free gift","free sample","first-time buyer discount","birthday discount","anniversary sale","end-of-season sale","price drop","installment payment","0% interest","buy now, pay later","group buy discount","bulk discount","trade-in offer","exclusive deal","50% off"
+    ]
+  },
+  {
+    "cate_name": "顾客销售",
+    "vocab_list": [
+     "customer","client","consumer","shopper","purchase","sale","transaction","order","invoice","receipt","refund","exchange","return","discount","promotion","coupon","membership","bargain","price","warranty","feedback","review","complaint","satisfaction","recommendation","market research","sales pitch","closing the sale"
+    ]
+  } 
+  ,
+  {
+    "cate_name": "超市",
+    "vocab_list": [
+     "shopping cart","shopping basket","cash register","checkout counter","barcode scanner","shopping list","price tag","special offer","discount","coupon","receipt","plastic bag","reusable bag","paper bag","grocery items","fresh produce","dairy products","frozen foods","canned goods","bakery section","meat counter","seafood counter","deli counter","cheese counter","snack aisle","beverage aisle","cereal aisle","condiment aisle","cleaning supplies","household items","personal care","pharmacy section","baby care","pet supplies","express checkout","self-checkout","bagging area","shopping trolley","shopping receipt","weekly specials","buy one get one free","clearance sale","aisle marker","shopping cart coin","price check","shopping assistant","shopping voucher","gift card","refund","exchange","shopping budget","impulse buy","shopping spree","bulk purchase","shopping etiquette","parking lot","shopping mall","supermarket chain"
+    ]
+  } 
+]
